@@ -15,6 +15,8 @@
 - DB : JDBC, MariaDB(10.4ver)
 - Library : CKEditor, Datepicker, Kakao Developers, JavaMailAPI
 - 개발 Tool : Eclipse(Photon), GitHub, Apache Tomcat(v8.5.49)   
+### DB ERD
+![놀먹자_ERD1](https://user-images.githubusercontent.com/59248326/150636928-a5795284-9210-4992-90ff-64f941b3be07.png)
+![놀먹자_ERD2](https://user-images.githubusercontent.com/59248326/150636988-f543a6d8-b53a-4471-95fe-feb3624add3a.jpg)
 ### 시연영상
-[YouTube 보기](https://youtu.be/tE2VE-d1tRE)   
-### DB구조   
+[YouTube 보기](https://youtu.be/tE2VE-d1tRE)
